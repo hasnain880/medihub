@@ -1,0 +1,8 @@
+{
+  "name": "Remix: MediHub",
+  "description": "An anti-gravity inspired blood donation matching and ambulance dispatch platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
